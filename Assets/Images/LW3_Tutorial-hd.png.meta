@@ -1,0 +1,2939 @@
+fileFormatVersion: 2
+guid: c44e05930acd9754daee1583c1f2c363
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1476
+        width: 852
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94db1f5fc87fbf5439d0af09b87a8317
+      internalID: 1902497653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_1
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1765
+        width: 390
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4b629d0f3bb1f40bc675fd38a8f3cf
+      internalID: -766861273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_2
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1999
+        width: 164
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d709a358b4eb13648bd41c6349126276
+      internalID: -523400130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_3
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 2000
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376bd4396f4c1fe468e3f852856dd848
+      internalID: -1592991753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_4
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1999
+        width: 171
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b014ac637d312489f7e6189c560d96
+      internalID: 914534340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_5
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 1998
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a382dcee30a44489066ef2a6ac8d61
+      internalID: -635265458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_6
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1889
+        width: 149
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859b4192b5e380a4185ac90573c15287
+      internalID: -1138571463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_7
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1876
+        width: 116
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008f60b4a4bcb7649b20cc65014343ea
+      internalID: 303913391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_8
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1929
+        width: 225
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff24c685ce26759469d4bc2059272218
+      internalID: 1759904084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_9
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1830
+        width: 214
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a030d917d16383942940e4310964817c
+      internalID: -1335456483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_10
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1888
+        width: 108
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d99c94684554048b242599b02f9e73
+      internalID: 2131075856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_11
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1930
+        width: 184
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0386216bbed8ea4ebc2be060954c4ac
+      internalID: 2087037455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_12
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1874
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3206060748e18b4da0998ea7981d43a
+      internalID: -1293983401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_13
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1887
+        width: 95
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5842b4f53d90b244da6c57a6ed87c823
+      internalID: -1133910203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_14
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1887
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3df8b547dc8c04a970a66ba43de0fd
+      internalID: 84456780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_15
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1832
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817ff3719622162459a603c9667a7255
+      internalID: 1966903822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_16
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1776
+        width: 94
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6c8739ca67cb9439b77c6688ebf009
+      internalID: 303945346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_17
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1777
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767286a82781342469931c550a674e28
+      internalID: 977012967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_18
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1707
+        width: 143
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73b6a04d080c7a48b2edae9601f3f1e
+      internalID: -2088286967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_19
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1777
+        width: 144
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7c7a8a090bf5e40b78004ae10b8949
+      internalID: 2106502626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_20
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1713
+        width: 127
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa408f9be2a477468dbfb5501bad381
+      internalID: 1783095906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_21
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1713
+        width: 139
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d3e7224f70c6440a33a9b3482dd51c
+      internalID: -153325708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_22
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1712
+        width: 97
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1378b1bdce230e847bf3df9b750a095a
+      internalID: -655116363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_23
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1699
+        width: 230
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f0ed376bbd6e84b9d144d11df34e38
+      internalID: 1404200536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_24
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1720
+        width: 110
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37976365928d0044cbbea66b5cf5a827
+      internalID: -850000681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_25
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1722
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b408e9dca5e9f734abdb090eb0cbbd0e
+      internalID: -867481180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_26
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1708
+        width: 151
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceee40cabd667be428c000796397bde4
+      internalID: -1343986157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_27
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1654
+        width: 126
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6dc88836f8e6f4f9c02865560c8b32
+      internalID: -784263013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_28
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1655
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5b59f219afb694db3d587c36d3b90e
+      internalID: 952393658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_29
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1655
+        width: 171
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff77acb269a46254f8b0722ccac8b6c5
+      internalID: -1893479046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_30
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1656
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398fbc7579f4ead49997132ea406a197
+      internalID: -961943313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_31
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1555
+        width: 61
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e023580b6ef3caa43b226f7a049a2abc
+      internalID: 1530465159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_32
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1499
+        width: 76
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f678dff7525a45478c88072a4f7fe9e
+      internalID: 1612582188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_33
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1492
+        width: 118
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02ab5287bd14c34794119ab751f3a5c
+      internalID: 503720453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_34
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1599
+        width: 119
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e43524a5725ef4db8ff7012d7aa5f1
+      internalID: -1447031350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_35
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1598
+        width: 97
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d9d2e15e35fc942884570a2aa777f9
+      internalID: 749711430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_36
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1586
+        width: 93
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39afaf408e8345746a15ae707cd2f2f6
+      internalID: -384561802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_37
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1599
+        width: 139
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba785256368044d42bc233b898841369
+      internalID: -1193989345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_38
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1542
+        width: 102
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49534fed46e26a640823ba601a9e598b
+      internalID: -65207871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_39
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1542
+        width: 103
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62ac922186f695419349e88480feaae
+      internalID: -581719263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_40
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1539
+        width: 145
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66053579cce92b4db0f3f07bdac29f5
+      internalID: 1372645069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_41
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1537
+        width: 74
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e384850bed84bcf44886e40aaa8277d9
+      internalID: 206740422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_42
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1525
+        width: 172
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c06369919c75c34cb73d8ad8bc25d24
+      internalID: 1212470000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_43
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1537
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c45bba1afab162448741f954878ce44
+      internalID: -286742300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_44
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1325
+        width: 49
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a06fcea151f74642a3489ce1a1e3e80
+      internalID: -1096584649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_45
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1165
+        width: 330
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baaad5e4cd2fbc469cc4332b36ca628
+      internalID: 490403505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_46
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1469
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd70577418a8b1540bf144f1145ffede
+      internalID: 1872270857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_47
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1482
+        width: 70
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c994345aeff72a45a5773d6ed260f7b
+      internalID: -1166564731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_48
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1482
+        width: 76
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b039f313d2a5dae4595d98d5f3f14d3e
+      internalID: -2135176996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_49
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 1483
+        width: 173
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2617fc8e221bbad40b28a7c65d553dfe
+      internalID: -550359683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1421
+        width: 90
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4187870c526158446b8718a071df1193
+      internalID: -928459448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_51
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1422
+        width: 99
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9d345c8c14afb4b989ba6eee27a433
+      internalID: -1037460135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_52
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1423
+        width: 97
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6b006f156660649b7b82de36454db8
+      internalID: 1990686945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_53
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1455
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639a85e33802c7f4c8f9af0053ae751a
+      internalID: -1798664284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_54
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1423
+        width: 219
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a7b27c61ca2c64ea286395ebbccdcb
+      internalID: -1330987383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_55
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1340
+        width: 62
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364f3f22f1fc35441869110d4ea04c68
+      internalID: -1027517055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_56
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1426
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0138bf0a621cfa3489dd1c51aaa044d2
+      internalID: 1966407684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_57
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1426
+        width: 70
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1b9efb95b77cb45a878dbb21eedd6f
+      internalID: -1077880999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_58
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1427
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df9b5631587b0644b9153603ae88f68
+      internalID: 188286342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_59
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1413
+        width: 170
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb6f2492c663ad458612dcf445cdf78
+      internalID: 2066723091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_60
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1177
+        width: 103
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed74059f034e6c49a6cf5e831cafb0d
+      internalID: 1167867665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_61
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1371
+        width: 117
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd2a4cc9a7ec024db08b1acb8e7df2e
+      internalID: 286530082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_62
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1379
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e8f866647172a409103f2848b2e0b8
+      internalID: 1757373581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_63
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1360
+        width: 126
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1f628fb87cc134883bfe75771577e9
+      internalID: -1359356147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_64
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1359
+        width: 229
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56a15e6a05c4cd48970f6d7a44e0db4
+      internalID: 402814601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_65
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1312
+        width: 102
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70540363e1647ef488f94daecd4fe58a
+      internalID: 1313421865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_66
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1311
+        width: 103
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1e0249e4aff1b48947edc646f60694
+      internalID: -970016907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_67
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1178
+        width: 165
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a931552859738c845a87db279a3a108c
+      internalID: -1435097841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_68
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1311
+        width: 92
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8578908c29f25154fbd0ea93b28b9dfc
+      internalID: 244639506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_69
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1299
+        width: 116
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb46dd64fa9adbf4b8f56322e834d9f9
+      internalID: 2142535890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_70
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1273
+        width: 176
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542c47958f2321e4381bc319d7f8b297
+      internalID: 1349911059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_71
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1272
+        width: 123
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9609e34a60e0f4246a0281721796ec8f
+      internalID: 263691948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_72
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1259
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc9daf4dc988f245882baa56acaaf85
+      internalID: 2044382998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_73
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1272
+        width: 90
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7a599d5594ced43a8d170c9c6b3e3d
+      internalID: 1543514738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_74
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1115
+        width: 163
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a331d4b7bf3567045a3e0cca582c81c4
+      internalID: -288086635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_75
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1116
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b236a4efa98744daea52c0a87157f2
+      internalID: -400628171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_76
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1129
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fec6f711bffb99418d12be1d19c7ff1
+      internalID: 200111230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_77
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1048
+        width: 51
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498fbe766adaa2f419ff5f60c71b53db
+      internalID: -549621549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_78
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1017
+        width: 48
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea3870e57b146d429427a0129fc45fd
+      internalID: -1617560061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_79
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1011
+        width: 192
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08def8e4f5dac341b775a76f79d8cd2
+      internalID: 174535497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_80
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1115
+        width: 218
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8457bc22fd872014093a02476b2fb1a2
+      internalID: 1510117993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_81
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1117
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b7a3e2e72b388408e353df9be0fafa
+      internalID: -867186273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_82
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1115
+        width: 148
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7563c00ca5f7574583bf2517db8d210
+      internalID: 1246744585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_83
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1020
+        width: 225
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33b82e7280338941a841d4dbb8620d3
+      internalID: 1762612701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_84
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1068
+        width: 249
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef03b70b5b7f0f49ad7db80feba26f0
+      internalID: 643477295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_85
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1072
+        width: 76
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191b9d9a87a74ad4aa64dfd68bebbb20
+      internalID: -2043003145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_86
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1059
+        width: 386
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a9108c0976bd64aa1524a003420141
+      internalID: 1796949158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_87
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1058
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9170d758be3c9234fb0bfa33bac92aa9
+      internalID: 1214634750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_88
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1059
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9063afff35e754b924e9fb4d53ec28
+      internalID: -61083933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_89
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1059
+        width: 173
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7293f6823c551f343808613edac3918e
+      internalID: -622273486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_90
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1046
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609cf9b922deb1443b35517364760d37
+      internalID: -277607099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_91
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1025
+        width: 109
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef68923ea4278c459e8ba1f98167803
+      internalID: 441350467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_92
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1017
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f77460977618747901cd80dc56b5af
+      internalID: -549521621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_93
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1018
+        width: 103
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876225a2f4b28d343b200ccc7105a897
+      internalID: -1771455633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_94
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1016
+        width: 76
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fa3429eac07ed438701bf095a6aa9a
+      internalID: -2121445753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_95
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1017
+        width: 151
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536dade300266a94ba24320df36302c0
+      internalID: 1910105697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_96
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 879
+        width: 49
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcef2ca8b23ba6247b0c1405a55a114e
+      internalID: 1238453021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_97
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1003
+        width: 137
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fcc9a16330b83479772590196a97b4
+      internalID: 568882430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_98
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 990
+        width: 89
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5419b81a7db72ee46b3759b47b953393
+      internalID: -1009866753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_99
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1002
+        width: 114
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b202f2f3222d2f468f66a0eb773e20c
+      internalID: -962100333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_100
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 966
+        width: 113
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c16a5c90f94159448f9f11f9ab75585
+      internalID: -1457445812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_101
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 965
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78337e5828ecf1f47bf5da0cbf94dc0a
+      internalID: -566496399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_102
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 951
+        width: 262
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976c1fe1d4c919846ad0e88dea4a7f96
+      internalID: -748060872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_103
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 854
+        width: 57
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d064d45825f6b6f40a77f82fdef86c7a
+      internalID: -1057533954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_104
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 747
+        width: 59
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ca6c18ab8587f40ac4b09402c3764c
+      internalID: -628077136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_105
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 849
+        width: 195
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1a43e813afc0a4385a1dd24f4daf91
+      internalID: -906109192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_106
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 908
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69af1b9fd133844ab1317272b36e897
+      internalID: 246164902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_107
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 910
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d07cde8e30c9f418890b8d9e459d13
+      internalID: 1310743003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_108
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 909
+        width: 102
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdf9fde0e4f04843a433d97a5fed5de
+      internalID: -1350791812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_109
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 820
+        width: 51
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c37876fddd6c147a8504f22ee9b886
+      internalID: 1399556070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_110
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 849
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01ba3a8bb4229c48bac1f55ba256899
+      internalID: 1692305868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_111
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 835
+        width: 180
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5be627f97b0bfc4dab22c961b365aa0
+      internalID: -230357354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_112
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 783
+        width: 77
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462456095f1f8da4697b5a74f8d92fc2
+      internalID: 281191472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_113
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 782
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165acb028a664a146a9e1678d5ef5b8a
+      internalID: 1447823654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_114
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 768
+        width: 225
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205fd59ba231b724496adffe7e7b03b5
+      internalID: -2121588877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_115
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 766
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53620337291d1a24eab5157e7f54b45c
+      internalID: -1155565278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_116
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 733
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47136fa26fc8298498602a44f9d0c9e1
+      internalID: -1658664168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_117
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 726
+        width: 166
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c8f3370f235104cbcdf721b33862ee
+      internalID: -1006840345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_118
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 726
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c6dc8071ec7514795b2ea005d282fc
+      internalID: 1340912455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_119
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 726
+        width: 113
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e457c2738e825364289762d5946e4764
+      internalID: 287098493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_120
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 602
+        width: 48
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d439e5412e87e7c43951e4e41e743637
+      internalID: 2055261325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_121
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 700
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ad7820e16101d458fa2f4353f75642
+      internalID: -732282790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_122
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 657
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e406c49b1ce20f4eb961c8de81c5dfa
+      internalID: -1092190968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_123
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 670
+        width: 83
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ae2fccd44d58e409ab961030d8412d
+      internalID: -1169427640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_124
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 669
+        width: 76
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3489bc1a724bee348bbb4c6e6691b8da
+      internalID: -1342646146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_125
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 656
+        width: 128
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f41f7f3dd161d04f859685968081d87
+      internalID: 1400273124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_126
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 613
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cd2092caba37c42bab6cb5c938fd77
+      internalID: -1202048878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LW3_Tutorial-hd_127
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 645
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ad24ad4ede9ea458220d1aac4ea04e
+      internalID: 646951823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LW3_Tutorial-hd_79: 174535497
+      LW3_Tutorial-hd_89: -622273486
+      LW3_Tutorial-hd_93: -1771455633
+      LW3_Tutorial-hd_109: 1399556070
+      LW3_Tutorial-hd_110: 1692305868
+      LW3_Tutorial-hd_13: -1133910203
+      LW3_Tutorial-hd_35: 749711430
+      LW3_Tutorial-hd_87: 1214634750
+      LW3_Tutorial-hd_30: -961943313
+      LW3_Tutorial-hd_45: 490403505
+      LW3_Tutorial-hd_10: 2131075856
+      LW3_Tutorial-hd_90: -277607099
+      LW3_Tutorial-hd_4: 914534340
+      LW3_Tutorial-hd_113: 1447823654
+      LW3_Tutorial-hd_105: -906109192
+      LW3_Tutorial-hd_102: -748060872
+      LW3_Tutorial-hd_80: 1510117993
+      LW3_Tutorial-hd_94: -2121445753
+      LW3_Tutorial-hd_117: -1006840345
+      LW3_Tutorial-hd_38: -65207871
+      LW3_Tutorial-hd_83: 1762612701
+      LW3_Tutorial-hd_121: -732282790
+      LW3_Tutorial-hd_104: -628077136
+      LW3_Tutorial-hd_18: -2088286967
+      LW3_Tutorial-hd_114: -2121588877
+      LW3_Tutorial-hd_51: -1037460135
+      LW3_Tutorial-hd_31: 1530465159
+      LW3_Tutorial-hd_75: -400628171
+      LW3_Tutorial-hd_29: -1893479046
+      LW3_Tutorial-hd_126: -1202048878
+      LW3_Tutorial-hd_76: 200111230
+      LW3_Tutorial-hd_50: -928459448
+      LW3_Tutorial-hd_107: 1310743003
+      LW3_Tutorial-hd_16: 303945346
+      LW3_Tutorial-hd_60: 1167867665
+      LW3_Tutorial-hd_25: -867481180
+      LW3_Tutorial-hd_12: -1293983401
+      LW3_Tutorial-hd_64: 402814601
+      LW3_Tutorial-hd_47: -1166564731
+      LW3_Tutorial-hd_14: 84456780
+      LW3_Tutorial-hd_17: 977012967
+      LW3_Tutorial-hd_59: 2066723091
+      LW3_Tutorial-hd_74: -288086635
+      LW3_Tutorial-hd_95: 1910105697
+      LW3_Tutorial-hd_72: 2044382998
+      LW3_Tutorial-hd_119: 287098493
+      LW3_Tutorial-hd_65: 1313421865
+      LW3_Tutorial-hd_98: -1009866753
+      LW3_Tutorial-hd_20: 1783095906
+      LW3_Tutorial-hd_108: -1350791812
+      LW3_Tutorial-hd_34: -1447031350
+      LW3_Tutorial-hd_96: 1238453021
+      LW3_Tutorial-hd_122: -1092190968
+      LW3_Tutorial-hd_69: 2142535890
+      LW3_Tutorial-hd_41: 206740422
+      LW3_Tutorial-hd_115: -1155565278
+      LW3_Tutorial-hd_54: -1330987383
+      LW3_Tutorial-hd_101: -566496399
+      LW3_Tutorial-hd_68: 244639506
+      LW3_Tutorial-hd_15: 1966903822
+      LW3_Tutorial-hd_112: 281191472
+      LW3_Tutorial-hd_70: 1349911059
+      LW3_Tutorial-hd_48: -2135176996
+      LW3_Tutorial-hd_116: -1658664168
+      LW3_Tutorial-hd_42: 1212470000
+      LW3_Tutorial-hd_57: -1077880999
+      LW3_Tutorial-hd_24: -850000681
+      LW3_Tutorial-hd_127: 646951823
+      LW3_Tutorial-hd_55: -1027517055
+      LW3_Tutorial-hd_46: 1872270857
+      LW3_Tutorial-hd_124: -1342646146
+      LW3_Tutorial-hd_58: 188286342
+      LW3_Tutorial-hd_78: -1617560061
+      LW3_Tutorial-hd_84: 643477295
+      LW3_Tutorial-hd_33: 503720453
+      LW3_Tutorial-hd_43: -286742300
+      LW3_Tutorial-hd_120: 2055261325
+      LW3_Tutorial-hd_71: 263691948
+      LW3_Tutorial-hd_0: 1902497653
+      LW3_Tutorial-hd_40: 1372645069
+      LW3_Tutorial-hd_77: -549621549
+      LW3_Tutorial-hd_52: 1990686945
+      LW3_Tutorial-hd_92: -549521621
+      LW3_Tutorial-hd_91: 441350467
+      LW3_Tutorial-hd_5: -635265458
+      LW3_Tutorial-hd_62: 1757373581
+      LW3_Tutorial-hd_106: 246164902
+      LW3_Tutorial-hd_27: -784263013
+      LW3_Tutorial-hd_39: -581719263
+      LW3_Tutorial-hd_1: -766861273
+      LW3_Tutorial-hd_37: -1193989345
+      LW3_Tutorial-hd_63: -1359356147
+      LW3_Tutorial-hd_11: 2087037455
+      LW3_Tutorial-hd_23: 1404200536
+      LW3_Tutorial-hd_100: -1457445812
+      LW3_Tutorial-hd_97: 568882430
+      LW3_Tutorial-hd_111: -230357354
+      LW3_Tutorial-hd_86: 1796949158
+      LW3_Tutorial-hd_7: 303913391
+      LW3_Tutorial-hd_28: 952393658
+      LW3_Tutorial-hd_36: -384561802
+      LW3_Tutorial-hd_32: 1612582188
+      LW3_Tutorial-hd_26: -1343986157
+      LW3_Tutorial-hd_53: -1798664284
+      LW3_Tutorial-hd_103: -1057533954
+      LW3_Tutorial-hd_6: -1138571463
+      LW3_Tutorial-hd_99: -962100333
+      LW3_Tutorial-hd_67: -1435097841
+      LW3_Tutorial-hd_19: 2106502626
+      LW3_Tutorial-hd_125: 1400273124
+      LW3_Tutorial-hd_123: -1169427640
+      LW3_Tutorial-hd_85: -2043003145
+      LW3_Tutorial-hd_88: -61083933
+      LW3_Tutorial-hd_61: 286530082
+      LW3_Tutorial-hd_118: 1340912455
+      LW3_Tutorial-hd_8: 1759904084
+      LW3_Tutorial-hd_22: -655116363
+      LW3_Tutorial-hd_81: -867186273
+      LW3_Tutorial-hd_44: -1096584649
+      LW3_Tutorial-hd_82: 1246744585
+      LW3_Tutorial-hd_56: 1966407684
+      LW3_Tutorial-hd_3: -1592991753
+      LW3_Tutorial-hd_21: -153325708
+      LW3_Tutorial-hd_66: -970016907
+      LW3_Tutorial-hd_9: -1335456483
+      LW3_Tutorial-hd_2: -523400130
+      LW3_Tutorial-hd_73: 1543514738
+      LW3_Tutorial-hd_49: -550359683
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
